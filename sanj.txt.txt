@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sanjanam2
-=======
 sanjanam1
->>>>>>> 79234760841e950db3c39ff1f2aba1b61340ce91
